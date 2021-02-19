@@ -1,0 +1,55 @@
+﻿
+
+body,html {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+body {    
+    background-image: url("/Imagenes/cdisMart.png");    
+    background-position: center center;    
+    background-repeat: no-repeat;    
+    background-attachment: fixed;    
+    background-size: cover;   
+    background-color: #464646;
+}
+
+
+#formLogin {
+    width: 50%;
+    margin: 100px auto;
+    border: 1px solid #449a89;
+    box-shadow: #000000 5px 5px 5px;
+    padding-bottom: 2%;
+}
+
+#imgLogin {
+    content: url("/Imagenes/cdisMart.png");
+    width: 50%;
+    margin: auto;
+}
+
+table {
+    margin: auto;
+}
+
+#btnIngresar {
+    background-color: darkslategray;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    font-size: 10px;
+}
+
+#btnRegistrarse {
+    background-color: darkslategray;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    font-size: 10px;
+}
+
+
+
